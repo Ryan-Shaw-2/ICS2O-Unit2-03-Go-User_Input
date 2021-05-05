@@ -20,6 +20,6 @@ func main() {
 	fmt.Print("Enter your street name: ")
 	fmt.Scanln(&streetName)
 
-	//ouput
+	// output
 	fmt.Println("Your address is", streetNumber, streetName, ".")
 }
